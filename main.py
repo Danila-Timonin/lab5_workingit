@@ -1,6 +1,6 @@
 import random
 import time
-import math
+
 
 
 def generate_initial_sequence_1(length):
@@ -94,3 +94,4 @@ for length in range(500, 5001, 500):
 
     for time_val in times:
         print(time_val)
+print("это какое то изменение")
