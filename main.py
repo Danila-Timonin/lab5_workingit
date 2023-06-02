@@ -1,5 +1,6 @@
 import random
 import time
+import math
 
 
 def generate_initial_sequence_1(length):
